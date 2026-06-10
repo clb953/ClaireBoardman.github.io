@@ -11,7 +11,7 @@ site_name: "Claire Boardman - Geospatial Portfolio"
 site_description: "Portfolio of Claire Boardman — GIS, Remote Sensing and Spatial Data Science"
 site_author: "claire Boardman"
 # After your site is live, uncomment and set this to your actual GitHub Pages URL:
-#site_url: "https://github.com/clb953/ClaireBoardman.github.io.git"
+#site_url: "https://your-username.github.io/your-repo-name"
 
 theme:
   name: material
@@ -67,7 +67,9 @@ extra:
       link: https://github.com/clb593
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/claire-boardman-626a6b/
+      link: https://www.linkedin.com/in/claire-boardman-626a6b/
     - icon: material/email
+      link: mailto:claire_boardman@hotmail.com
       link: mailto:tbc
 
 
